@@ -1,0 +1,6 @@
+
+{
+  "name": "Terminal Alpha",
+  "description": "Sistema de processamento estratégico e financeiro de alta performance.",
+  "requestFramePermissions": []
+}
