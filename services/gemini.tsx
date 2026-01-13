@@ -35,3 +35,4 @@ export async function* sendMessageStreaming(message: string, history: Message[])
     throw error;
   }
 }
+
