@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antonio Marcos Ferreira - Fornecedor Público</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f7fa;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #005599;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    main {
+      padding: 30px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #003366;
+    }
+    .btn-whatsapp {
+      background-color: #25D366;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 10px;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Antonio Marcos Ferreira</h1>
+    <p>Fornecedor Público | CNPJ 55.738.299/0001-78</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#produtos">Produtos</a>
+    <a href="#orcamento">Orçamento</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <main>
+    <section id="sobre">
+      <h2>Sobre</h2>
+      <p>Atuamos como fornecedor público de materiais de escritório e limpeza, atendendo prefeituras, escolas, postos de saúde e órgãos governamentais. Compromisso com qualidade, preço justo e entrega ágil.</p>
+    </section>
+
+    <section id="produtos">
+      <h2>Produtos</h2>
+      <h3>Materiais de Escritório</h3>
+      <ul>
+        <li>Papel A4 75g</li>
+        <li>Canetas esferográficas</li>
+        <li>Lápis e borrachas</li>
+        <li>Pastas, grampeadores, clipes</li>
+        <li>Toners e cartuchos compatíveis</li>
+      </ul>
+      <h3>Materiais de Limpeza</h3>
+      <ul>
+        <li>Detergente, sabão líquido</li>
+        <li>Desinfetante e água sanitária</li>
+        <li>Rodos, vassouras, panos de chão</li>
+        <li>Papel higiênico, papel toalha</li>
+      </ul>
+    </section>
+
+    <section id="orcamento">
+      <h2>Solicite um Orçamento</h2>
+      <p>Entre em contato pelo WhatsApp para receber um orçamento personalizado para sua secretaria ou setor público.</p>
+      <a class="btn-whatsapp" href="https://wa.me/5588981779228?text=Olá,+gostaria+de+um+orçamento+para+produtos+de+escritório+e+limpeza">Chamar no WhatsApp</a>
+    </section>
+
+    <section id="contato">
+      <h2>Contato</h2>
+      <p><strong>Telefone/WhatsApp:</strong> (88) 98177-9228</p>
+      <p><strong>E-mail:</strong> euantoniomarcos003@gmail.com</p>
+      <p><strong>Localização:</strong> Brejo Santo – CE</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Antonio Marcos Ferreira - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
